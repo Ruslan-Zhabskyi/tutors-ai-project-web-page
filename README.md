@@ -14,6 +14,6 @@ This repository is the "eli5" project web page for my Higher Diploma in Computer
 * [Sprints Plan](https://docs.google.com/spreadsheets/d/1owfciXXb4mf814SP3hGhTdkSr5gzYRbkr05-kOAgK3Q/edit?usp=sharing) @ Google Docs
 * [Forked Tutors repository](https://github.com/Ruslan-Zhabskyi/tutors) @ GitHub
   * [chat-with-tutors-ai-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/chat-with-tutors-ai-feature-branch)
-* [Link to Created Visuals](https://excalidraw.com/#json=F-yz6bExg5GLUPIDc3uJ7,3A_1UbrF2AwLqXJVNXksGg) @ excalidraw
+* [Link to Created Visuals](https://excalidraw.com/#json=F-yz6bExg5GLUPIDc3uJ7,3A_1UbrF2AwLqXJVNXksGg) @ Excalidraw
 
 
