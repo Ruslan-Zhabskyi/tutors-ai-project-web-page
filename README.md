@@ -3,7 +3,7 @@
 </p>
 
 
-# eli5 (Tutors AI) - Generative AI augmentation to www.tutors.dev Project Web Page
+# eli5 (Tutors AI) - Generative AI augmentation to Tutors Project Web Page
 This repository is the "eli5" project web page for my Higher Diploma in Computer Science Final Project at SETU University.
 
 **Student: Ruslan Zhabskyi**\
