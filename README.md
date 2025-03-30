@@ -24,6 +24,6 @@ This repository is the "eli5" project web page for my Higher Diploma in Computer
   * [tutors-ai-eli5-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-eli5-feature)
   * [connecting-to-supabase-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/connecting-to-supabase)
   * [tutors-ai-for-content-creators-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-for-content-creators)
-* [Link to Created Visuals](https://excalidraw.com/#json=F-yz6bExg5GLUPIDc3uJ7,3A_1UbrF2AwLqXJVNXksGg) @ Excalidraw
+* [Project Image](https://github.com/Ruslan-Zhabskyi/eli5-project-web-page/blob/main/Tutors%20AI%20Project%20Image.png) @ GitHub
 
 
