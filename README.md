@@ -4,7 +4,7 @@
 
 
 # Tutors AI - Generative AI augmentation to Tutors Project Web Page
-This repository is the "eli5" project web page for my Higher Diploma in Computer Science Final Project at SETU University.
+This repository is the "Tutors AI" project web page for my Higher Diploma in Computer Science Final Project at SETU University.
 
 **Student: Ruslan Zhabskyi**\
 **HDIP 2023**
