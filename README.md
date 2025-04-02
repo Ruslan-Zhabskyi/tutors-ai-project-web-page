@@ -28,5 +28,5 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
 ## Project Image
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Zhabskyi/tutors-ai-project-web-page/blob/e59484f7858d55787b434e7c82a8e9659b31d87c/Tutors%20AI%20Project%20Image.png" alt="Tutors AI Project Image">
+  <img src="https://github.com/Ruslan-Zhabskyi/tutors-ai-project-web-page/blob/e59484f7858d55787b434e7c82a8e9659b31d87c/Tutors%20AI%20Project%20Image.png?raw=true" alt="Tutors AI Project Image">
 </p>
