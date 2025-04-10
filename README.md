@@ -9,7 +9,7 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
 **Student: Ruslan Zhabskyi**\
 **HDIP 2023**
 
-* [Deployed Web App](https://tutors-ai.netlify.app/) @ Netlify
+* [Deployed Web App](https://tutors-ai.netlify.app/lab/full-stack-2-2023/topic-2/book-2/Startup) @ Netlify
   * [Lab Example: Chat with Tutors AI amd eli5 features](https://tutors-ai.netlify.app/lab/full-stack-2-2023/topic-2/book-2/01)
   * [AI Powered Web Search](https://tutors-ai.netlify.app/aisearch/hdip-security-2023)
   * [Tutors AI for Content Creators](https://tutors-ai.netlify.app//ai-stat)
