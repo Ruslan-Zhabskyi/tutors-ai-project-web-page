@@ -4,10 +4,13 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
 **Student: Ruslan Zhabskyi**\
 **HDIP 2023**
 
+### Tutors Web App with AI augmentation
 * [Deployed Web App](https://tutors-ai.netlify.app/lab/full-stack-2-2023/topic-2/book-2/Startup) @ Netlify
   * [Lab Example: Chat with Tutors AI amd eli5 features](https://tutors-ai.netlify.app/lab/full-stack-2-2023/topic-2/book-2/01)
   * [AI Powered Web Search](https://tutors-ai.netlify.app/aisearch/hdip-security-2023)
   * [Tutors AI for Content Creators](https://tutors-ai.netlify.app//ai-stat)
+ 
+### Project Documentation and Reports
 * [Proposal](https://github.com/Ruslan-Zhabskyi/eli5-project-web-page/blob/facd08b3e4c42f20f7670a4a190d880f666c36d1/%5BRuslan%20Zhabskyi%5D%5B20104105%5D%5BProject%20Proposal%5D%20Generative%20AI%20augmentation%20to%20www.tutors.dev%20-%20eli5.pdf) @ GitHub
 * [Interim Report](https://github.com/Ruslan-Zhabskyi/eli5-project-web-page/blob/main/%5BRuslan%20Zhabskyi%5D%5B20104105%5D%5BInterim%20Report%5D%20Eli5%20tutors%20-%20Generative%20AI%20augmentation%20to%20www.tutors.dev%20(1).pdf) @ GitHub
 * [Project Traker](https://github.com/users/Ruslan-Zhabskyi/projects/6/views/1) @ GitHub
