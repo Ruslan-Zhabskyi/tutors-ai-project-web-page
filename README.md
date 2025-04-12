@@ -17,13 +17,26 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
 * [Interim Report](https://github.com/Ruslan-Zhabskyi/eli5-project-web-page/blob/main/%5BRuslan%20Zhabskyi%5D%5B20104105%5D%5BInterim%20Report%5D%20Eli5%20tutors%20-%20Generative%20AI%20augmentation%20to%20www.tutors.dev%20(1).pdf) @ GitHub
 * [Project Traker](https://github.com/users/Ruslan-Zhabskyi/projects/6/views/1) @ GitHub
 * [Sprints Plan](https://docs.google.com/spreadsheets/d/1owfciXXb4mf814SP3hGhTdkSr5gzYRbkr05-kOAgK3Q/edit?usp=sharing) @ Google Docs
-* [Forked Tutors Repository](https://github.com/Ruslan-Zhabskyi/tutors) @ GitHub
+
+## Codebase
+**[Tutors AI (Forked Tutors) Repository](https://github.com/Ruslan-Zhabskyi/tutors)** @ GitHub
+### Branches
   * [chat-with-tutors-ai-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/chat-with-tutors-ai-feature-branch)
   * [ai-powered-websearch-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/ai-powered-websearch)
   * [ai-search-and-chat-deployement-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/ai-search-and-chat-deployement)
   * [tutors-ai-eli5-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-eli5-feature)
   * [connecting-to-supabase-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/connecting-to-supabase)
   * [tutors-ai-for-content-creators-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-for-content-creators)
+### Features
+* [Chat Tutors AI](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/lib/ui/navigators/buttons/AIChatButton.svelte)
+  * [Backend Server](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/routes/api/generate-text/%2Bserver.ts)
+* [AI Powered Web Search](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/routes/(course-reader)/aisearch/%5Bcourseid%5D/%2Bpage.svelte)
+  * [Backend Server](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/routes/api/summarise-search-background/%2Bserver.ts)
+* [Explain Like I’m Five](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/lib/ui/learning-objects/content/Lab.svelte)
+  * **Note:** Same backend server as **AI Powered Web Search**
+* [Tutors AI for Content Creators](https://github.com/Ruslan-Zhabskyi/tutors/tree/development/src/routes/ai-stat)
+  * **Note:** Same backend server as **AI Powered Web Search**
+
  <p align="center">
   <img src="https://github.com/Ruslan-Zhabskyi/tutors-ai-project-web-page/blob/main/Mermaid%20Chart.svg?raw=true" alt="Tutors AI Project Image">
 </p>
