@@ -22,6 +22,7 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
   * [tutors-ai-eli5-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-eli5-feature)
   * [connecting-to-supabase-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/connecting-to-supabase)
   * [tutors-ai-for-content-creators-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-for-content-creators)
+
 ### Features
 * [Chat Tutors AI](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/lib/ui/navigators/buttons/AIChatButton.svelte)
   * [Backend Server](https://github.com/Ruslan-Zhabskyi/tutors/blob/development/src/routes/api/generate-text/%2Bserver.ts)
