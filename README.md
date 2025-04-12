@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Ruslan-Zhabskyi/eli5-project-web-page/blob/f965373bd60d9343497f0394166d61dff1105e3a/tutorsAI.png?raw=true" alt="Tutors AI">
-</p>
-
-
 # Tutors AI - Generative AI augmentation to Tutors Project Web Page
 This repository is the "Tutors AI" project web page for my Higher Diploma in Computer Science Final Project at SETU University.
 
