@@ -24,6 +24,10 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
   * [tutors-ai-eli5-feature-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-eli5-feature)
   * [connecting-to-supabase-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/connecting-to-supabase)
   * [tutors-ai-for-content-creators-branch](https://github.com/Ruslan-Zhabskyi/tutors/tree/tutors-ai-for-content-creators)
+ <p align="center">
+  <img src="https://github.com/Ruslan-Zhabskyi/tutors-ai-project-web-page/blob/main/Mermaid%20Chart.svg?raw=true" alt="Tutors AI Project Image">
+</p>
+
 
 ## Project Image
 
