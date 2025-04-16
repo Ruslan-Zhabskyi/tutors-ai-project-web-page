@@ -17,6 +17,8 @@ This repository is the "Tutors AI" project web page for my Higher Diploma in Com
 * [Project Traker](https://github.com/users/Ruslan-Zhabskyi/projects/6/views/1) @ GitHub
 * [Sprints Plan](https://docs.google.com/spreadsheets/d/1owfciXXb4mf814SP3hGhTdkSr5gzYRbkr05-kOAgK3Q/edit?usp=sharing) @ Google Docs
 
+### Project Video Presentation
+[Tutors AI - Video Presentation](https://youtu.be/g9XqM4FC_yE) @ YouTube
 ## Codebase
 **[Tutors AI (Forked Tutors) Repository](https://github.com/Ruslan-Zhabskyi/tutors)** @ GitHub
 ### Branches
